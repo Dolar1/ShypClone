@@ -1,16 +1,20 @@
-# shypclone
+# Shyp Clone
 
-A new Flutter project.
+Flutter UI To replicate Shyp App
 
-## Getting Started
+## Sample UI Images
 
-This project is a starting point for a Flutter application.
+1. Home Page
+   ![Alt Text](./app_images/1.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+2. Ongoing Load Page
+   ![Alt Text](./app_images/2.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Order Details Page
+   ![Alt Text](./app_images/3.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Next Stage
+   ![Alt Text](./app_images/4.jpeg)
+
+5. Confirmation Stage
+   ![Alt Text](./app_images/5.jpeg)
